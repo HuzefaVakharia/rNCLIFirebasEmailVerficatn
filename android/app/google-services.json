@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "208798262471",
+    "project_id": "designinguidemodoctorapp",
+    "storage_bucket": "designinguidemodoctorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208798262471:android:a482831de289a1dbfe8ae2",
+        "android_client_info": {
+          "package_name": "com.rnclicrashanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208798262471-j0tcaf64rqqnffv7h7jb2h0nep5jlett.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlg_AZajI_ePyIiG5puryeiY0yfVsgw-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208798262471-j0tcaf64rqqnffv7h7jb2h0nep5jlett.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208798262471:android:74e65bf792d0fd78fe8ae2",
+        "android_client_info": {
+          "package_name": "com.rnclifirebasemailverficatn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208798262471-l3i9fpaamii18dan0stc4skp4g2k6p12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnclifirebasemailverficatn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "208798262471-j0tcaf64rqqnffv7h7jb2h0nep5jlett.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlg_AZajI_ePyIiG5puryeiY0yfVsgw-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208798262471-j0tcaf64rqqnffv7h7jb2h0nep5jlett.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208798262471:android:78fc0b94ac07784bfe8ae2",
+        "android_client_info": {
+          "package_name": "com.socetonmanagermobilemasterrajeshwarinfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208798262471-j0tcaf64rqqnffv7h7jb2h0nep5jlett.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlg_AZajI_ePyIiG5puryeiY0yfVsgw-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208798262471-j0tcaf64rqqnffv7h7jb2h0nep5jlett.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
